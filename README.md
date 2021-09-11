@@ -1,0 +1,2 @@
+# nftbids.io
+nftbids.io
